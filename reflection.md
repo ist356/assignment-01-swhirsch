@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+This first assignment supplemented my learning of the fundementals of Python. I learned how to use Python's debugger, and read the outputs and test results. Going through this assignment, and understanding the operations behind each line of code boosted my confidence in learning Python functions and operations going forwards.
